@@ -10,6 +10,7 @@ int main(){
         K = K + 1;
         SOMA = SOMA + K;
     }
+
     
-    cout <<"Soma: "<< SOMA;
+    cout <<"Soma: "<< SOMA<<endl;
 }
